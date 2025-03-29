@@ -39,4 +39,5 @@ Successfully extracted grocery product data.
 Stored and managed data efficiently in MySQL.
 Built an insightful Power BI dashboard for comparative analysis.
 
-# By Rohith katkuri
+# By 
+Rohith katkuri
