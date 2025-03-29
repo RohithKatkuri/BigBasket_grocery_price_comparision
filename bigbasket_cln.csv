@@ -1,0 +1,954 @@
+Product_Name,Price,Discount,Category
+Ridge Gourd,40,40,vegetable
+Carrot - Red,39,34,vegetable
+Beans - Haricot (Loose),17,50,vegetable
+Ginger - Organically Grown,30,57,vegetable
+Cabbage,12,51,vegetable
+Beetroot (Loose),32,32,vegetable
+Brinjal - Varikatri (Loose),9,36,vegetable
+Palak - Organically Grown,95,20,vegetable
+Drumstick Leaves,27,24,vegetable
+Broccoli,20,51,vegetable
+"Chilli - Green, Organically Grown",44,45,vegetable
+Coccinia (Loose),38,38,vegetable
+Drumstick - Cut,29,24,vegetable
+Carrot Red Halwa,44,24,vegetable
+Carrot - Grated,29,24,vegetable
+Drumstick - Organically Grown,14,24,vegetable
+"Potato - Chandramukhi, Organically Grown",28,44,vegetable
+Beetroot - Organically Grown (Loose),5,67,vegetable
+Bitter Gourd (Loose),36,50,vegetable
+Onion,166,38,vegetable
+Ridge Gourd,40,40,vegetable
+Carrot - Red,39,34,vegetable
+Beans - Haricot (Loose),17,50,vegetable
+Ginger - Organically Grown,30,57,vegetable
+Cabbage,12,51,vegetable
+Beetroot (Loose),32,32,vegetable
+Brinjal - Varikatri (Loose),9,36,vegetable
+Palak - Organically Grown,95,20,vegetable
+Drumstick Leaves,27,24,vegetable
+Broccoli,20,51,vegetable
+"Chilli - Green, Organically Grown",44,45,vegetable
+Coccinia (Loose),38,38,vegetable
+Drumstick - Cut,29,24,vegetable
+Carrot Red Halwa,44,24,vegetable
+Carrot - Grated,29,24,vegetable
+Drumstick - Organically Grown,14,24,vegetable
+"Potato - Chandramukhi, Organically Grown",28,44,vegetable
+Beetroot - Organically Grown (Loose),5,67,vegetable
+Bitter Gourd (Loose),36,50,vegetable
+Onion,166,38,vegetable
+Pasteurised Toned Milk,44,4,dairy
+Fruit Yoghurt - Mango,175,11,dairy
+Curd,25,10,dairy
+Paneer,160,20,dairy
+Masti Buttermilk - Spice,130,6,dairy
+"Paneer - Rich In Protein, Calcium, Excellent Taste",408,27,dairy
+Chocolate Shots,28,36,dairy
+Fruit & Nut Chocolate Bar,243,21,dairy
+Mishti Doi,140,8,dairy
+Gold Milk,32,0,dairy
+Cheese - Slice,224,0,dairy
+Dahi - Made From Toned Milk,100,0,dairy
+"Bites - Hazelnut, Roasted & Chocolate Coated",118,0,dairy
+Pista Flavoured Milk,112,0,dairy
+Badam Pista Shrikhand,120,0,dairy
+Daily Health Toned Milk,31,0,dairy
+Butter - Pasteurized,550,0,dairy
+Shubham Milk,50,0,dairy
+ActiPlus Dahi - Low Fat Curd With Probiotics,80,0,dairy
+Cheese Slice - Processed Spread,335,0,dairy
+Dairy Milk Chocolate,350,0,dairy
+Cow Milk Feta Cheese,340,0,dairy
+English Cheddar Cheese,530,0,dairy
+"Butter - Unsalted, Naturally White",312,0,dairy
+Mascarpone Cheese,380,0,dairy
+Mozzarella Cheese,350,0,dairy
+American Style Cream Cheese - Plain,399,0,dairy
+Fetta Cheese,530,0,dairy
+30 Second Almond Milk - Unsweetened,1500,0,dairy
+Processed Cheese Cubes,135,0,dairy
+Mozzarella Pizza Cheese,275,0,dairy
+"OatWOW Rich Cocoa Oat Milk - Dairy-Free Alternative, Chocolate Flavoured Creamy",825,0,dairy
+"Nutter Plant Based Herbs & Garlic Butter - Vegan, Dairy & Gluten Free",195,0,dairy
+"Dairy Milk - Fruit & Nut Imported, Imported, Rich Classic Taste",399,0,dairy
+Nutty Kulfi Madbury Chocolate Bar,45,0,dairy
+Processed Cheese - Fresh Garlic,220,0,dairy
+Pasteurised Toned Milk,44,4,dairy
+Fruit Yoghurt - Mango,175,11,dairy
+Curd,25,10,dairy
+Paneer,160,20,dairy
+Masti Buttermilk - Spice,130,6,dairy
+"Paneer - Rich In Protein, Calcium, Excellent Taste",408,27,dairy
+Chocolate Shots,28,36,dairy
+Fruit & Nut Chocolate Bar,243,21,dairy
+Mishti Doi,140,8,dairy
+Gold Milk,32,30,dairy
+Cheese - Slice,224,20,dairy
+Dahi - Made From Toned Milk,100,12,dairy
+"Bites - Hazelnut, Roasted & Chocolate Coated",118,0,dairy
+Pista Flavoured Milk,112,0,dairy
+Badam Pista Shrikhand,120,0,dairy
+Daily Health Toned Milk,31,0,dairy
+Butter - Pasteurized,550,0,dairy
+Shubham Milk,50,0,dairy
+ActiPlus Dahi - Low Fat Curd With Probiotics,80,0,dairy
+Cheese Slice - Processed Spread,335,0,dairy
+Dairy Milk Chocolate,350,0,dairy
+Cow Milk Feta Cheese,340,0,dairy
+English Cheddar Cheese,530,0,dairy
+"Butter - Unsalted, Naturally White",312,0,dairy
+Mascarpone Cheese,380,0,dairy
+Mozzarella Cheese,350,0,dairy
+American Style Cream Cheese - Plain,399,0,dairy
+Fetta Cheese,530,0,dairy
+30 Second Almond Milk - Unsweetened,1500,0,dairy
+Processed Cheese Cubes,135,0,dairy
+Mozzarella Pizza Cheese,275,0,dairy
+"OatWOW Rich Cocoa Oat Milk - Dairy-Free Alternative, Chocolate Flavoured Creamy",825,0,dairy
+"Nutter Plant Based Herbs & Garlic Butter - Vegan, Dairy & Gluten Free",195,0,dairy
+"Dairy Milk - Fruit & Nut Imported, Imported, Rich Classic Taste",399,0,dairy
+Nutty Kulfi Madbury Chocolate Bar,45,0,dairy
+Processed Cheese - Fresh Garlic,220,0,dairy
+Dairy Milk Chocolate Bar - Crispello,1500,0,dairy
+"Mango Flavoured Milk - Nutritious, Dairy-Based Drink",135,0,dairy
+Dairy Milk Honeycomb & Nuts - Imported,275,0,dairy
+Cheese spread - Honey & cinnamon,330,0,dairy
+30 Second Almond Milk - Unsweetened,400,0,dairy
+Processed Cheese Cubes,99,0,dairy
+Mozzarella Pizza Cheese,825,0,dairy
+Fruit Classic Mango Marvel Ice Cream - 100% Natural Flavour,399,0,dairy
+"Knutzella Granola - Gluten & Dairy Free, No Preservatives",515,0,dairy
+"Double Dark Chocolate Pistachio Biscotti - Gluten & Dairy Free, No Preservatives",250,0,dairy
+"OatWOW Coffee Oat Beverage - Plant-based, Dairy Alternative",825,0,dairy
+"Dairy Milk - Whole Nut, Imported, Rich Classic Taste",195,0,dairy
+Whole Cranberries Coated In Dairy Milk Chocolate,299,0,dairy
+"Coconut Milk - Alternative To Dairy Milk, Healthy",130,0,dairy
+"OatWOW Rich Cocoa Oat Milk - Dairy-Free Alternative, Chocolate Flavoured Creamy",399,0,dairy
+"Nutter Plant Based Herbs & Garlic Butter - Vegan, Dairy & Gluten Free",45,0,dairy
+Authentic Belgian Waffles - Dairy Free & No Added Preservatives,150,0,dairy
+"Dairy Milk - Imported, Classic, Creamy Taste",150,0,dairy
+"Dairy Milk - Fruit & Nut Imported, Imported, Rich Classic Taste",220,0,dairy
+Nutty Kulfi Madbury Chocolate Bar,60,0,dairy
+Tricolor Unicorn Ice cream,240,0,dairy
+Choco Brownie Fudge Ice Cream,395,0,dairy
+Processed Cheese - Fresh Garlic,300,0,dairy
+"Vegan Energy Bar - Fig Apricot & Orange, Dairy-Free, No Added Sugar, Natural",159,0,dairy
+"Plant Based Drink - Original, Made With Sprouted Millets, Creamy, Dairy Free",120,0,dairy
+Dairy Based Beverage Mix - Royale Chocolate Flavour,350,0,dairy
+"OatWOW Vanilla Oat Milk - Dairy-Free Alternative, Vanilla Flavoured Creamy, Lactose-Free",281,0,dairy
+"Classic Crunchy Peanut Butter - High Natural Protein, No Added Colour, Dairy Free",225,0,dairy
+"Daily Nutrition Shake - Vegan, Rich In Calcium, Dairy Free, Vanilla Almond",300,0,dairy
+Mini Bocconcini Cheese,135,0,dairy
+"Plant Based Oat Drink - Dairy & Gluten Free, No Added Sugar",220,0,dairy
+"Cheese - Slice, Herbs & Spices",495,0,dairy
+"Plant Based Drink - Made With Sprouted Millets, Creamy, Dairy Free, Chocolate",2102,0,dairy
+"Coconut Milk - Rich, Creamy, Dairy Free, For Cooking & Baking",65,0,dairy
+"Coconut Cream - Thick, Creamy, Dairy Free, For Cooking & Baking",447,0,dairy
+Smoked Processed Cheese - Black Pepper,300,0,dairy
+100% Tender Coconut Water,109,39,beverages
+Fruit Juice - Orange Drink,435,0,beverages
+Tender Coconut Water - With Pulpy Malai,49,18,beverages
+Diet Coke Soft Drink,228,12,beverages
+Fresh 'N' Juicy Mango Drink,37,6,beverages
+Instant Drink Mix - Mango,246,12,beverages
+Valencia Orange Juice - 100% Cold Pressed,39,70,beverages
+Soft Drink,107,11,beverages
+Soft Drink,142,28,beverages
+Mango Juice - 100% Cold Pressed,75,24,beverages
+Apple Juice Drink,9,6,beverages
+Juice - Sparkling Apple,126,14,beverages
+Sparkling Water - Club Soda,56,6,beverages
+Aromatic Spiced Bitters - Non-alcoholic,1250,59,beverages
+Berry Delight Juice - 100% Cold Pressed,69,15,beverages
+Orange Bitters - Non-alcoholic,1250,25,beverages
+Fruit Juice - Mango,118,0,beverages
+Swing Juicier Drink - Lush Lychee,60,0,beverages
+Mango Drink,149,16,beverages
+"Apple Juice - Rich In Vitamin D, No Added Preservatives",120,6,beverages
+Soft Drink With Real Lemon Juice,40,25,beverages
+Sugar Free Energy Drink,417,15,beverages
+Fizz Jeera Masala Soda,89,19,beverages
+Soft Drink - Lime & Lemoni Flavoured,74,6,beverages
+Soft Drink,144,17,beverages
+Soft Drink - Refreshing,97,14,beverages
+Club Soda - Evervess,18,0,beverages
+Plant-Based Soy Beverage - Original,272,0,beverages
+Plant-Based Soy Beverage - Elaichi,160,0,beverages
+"Energy Drink - Caffeinated Beverage, Rich In Vitamin B, Berry Blast",60,0,beverages
+Zero Sugar Mojito Non-Alcoholic Beverage Cocktail Mixer,99,0,beverages
+"Sparkling Beverage - Ginger Ale, Finely Crafted, Natural Flavour",480,0,beverages
+"Coconut Drink - Real Fruit Juice, Ready To Serve Beverage, Coco Litchi",40,0,beverages
+Fruit Beverage - Ready To Serve,24,0,beverages
+Barista Soy Edition Beverage,161,0,beverages
+"The Green Edition Energy Drink - Dragon Fruit Flavour, Caffeinated Beverage",125,0,beverages
+The New Old Fashioned Cocktail Mixer - Ready To Serve Fruit Beverage,792,0,beverages
+Enriched Soy Beverage - Sweetened Regular Malt,390,0,beverages
+Lychee Drink Fruit Beverage,30,0,beverages
+100% Tender Coconut Water,109,39,beverages
+Fruit Juice - Orange Drink,435,0,beverages
+Tender Coconut Water - With Pulpy Malai,49,18,beverages
+Diet Coke Soft Drink,228,12,beverages
+Fresh 'N' Juicy Mango Drink,37,6,beverages
+Instant Drink Mix - Mango,246,12,beverages
+Valencia Orange Juice - 100% Cold Pressed,39,70,beverages
+Soft Drink,107,11,beverages
+Soft Drink,142,28,beverages
+Mango Juice - 100% Cold Pressed,75,24,beverages
+Apple Juice Drink,9,6,beverages
+Juice - Sparkling Apple,126,14,beverages
+Sparkling Water - Club Soda,56,6,beverages
+Aromatic Spiced Bitters - Non-alcoholic,1250,59,beverages
+Berry Delight Juice - 100% Cold Pressed,69,15,beverages
+Orange Bitters - Non-alcoholic,1250,25,beverages
+Fruit Juice - Mango,118,0,beverages
+Swing Juicier Drink - Lush Lychee,60,0,beverages
+Mango Drink,149,16,beverages
+"Apple Juice - Rich In Vitamin D, No Added Preservatives",120,6,beverages
+Soft Drink With Real Lemon Juice,40,25,beverages
+Sugar Free Energy Drink,417,15,beverages
+Fizz Jeera Masala Soda,89,19,beverages
+Soft Drink - Lime & Lemoni Flavoured,74,6,beverages
+Soft Drink,144,17,beverages
+Soft Drink - Refreshing,97,14,beverages
+Club Soda - Evervess,18,0,beverages
+Plant-Based Soy Beverage - Original,272,0,beverages
+Plant-Based Soy Beverage - Elaichi,160,0,beverages
+"Energy Drink - Caffeinated Beverage, Rich In Vitamin B, Berry Blast",60,0,beverages
+Zero Sugar Mojito Non-Alcoholic Beverage Cocktail Mixer,99,0,beverages
+"Sparkling Beverage - Ginger Ale, Finely Crafted, Natural Flavour",480,0,beverages
+"Coconut Drink - Real Fruit Juice, Ready To Serve Beverage, Coco Litchi",40,0,beverages
+Fruit Beverage - Ready To Serve,24,0,beverages
+Barista Soy Edition Beverage,161,0,beverages
+"The Green Edition Energy Drink - Dragon Fruit Flavour, Caffeinated Beverage",125,0,beverages
+The New Old Fashioned Cocktail Mixer - Ready To Serve Fruit Beverage,792,0,beverages
+Enriched Soy Beverage - Sweetened Regular Malt,390,0,beverages
+Lychee Drink Fruit Beverage,30,0,beverages
+Butter Murukku,58,10,snacks
+Moong Dal Namkeen,570,10,snacks
+Ribbon Pakoda,58,10,snacks
+Namkeen - Kodubale,58,6,snacks
+Namkeen - Khatta Meetha,56,10,snacks
+Namkeen - Mini Bhakarwadi,130,34,snacks
+Madras Mixture,58,37,snacks
+Murukku,65,20,snacks
+Butter Murukku,69,6,snacks
+Kerala Rice Murukku,79,6,snacks
+Namkeen - Tasty Nuts,165,39,snacks
+Namkeen - Masala Kaju,100,17,snacks
+Tasty Peanuts - Spice Coated,117,10,snacks
+Namkeen - Salted Peanut,56,31,snacks
+Namkeen - Lite Chiwda,9,6,snacks
+Ragi Sticks - Achari Masala,76,18,snacks
+"Kerala Banana Chips - Original Style, Thin & Crispy, Delicious",157,39,snacks
+Khara Boondi,58,20,snacks
+Shankarpali Sweet - Mithai,75,39,snacks
+Namkeen - Lite Chiwda,56,38,snacks
+Khatta Meetha,120,31,snacks
+Gujarati Besan Papdi,67,6,snacks
+West Indies Hot N Sweet Potato Chips - Crispy Chips & Snacks,80,4,snacks
+Quinoa Puffs - Onion Masala,76,37,snacks
+Tamil Nadu Madras Mixture,65,10,snacks
+Chaat Papdi - Crispy,150,22,snacks
+Mixture Namkeen,42,25,snacks
+Makhana - Cream & Onion,116,11,snacks
+"Chegodi, Telugu Speciality Snacks",69,33,snacks
+Tapioca Chips Chilly,40,37,snacks
+"Cornflakes Mixture - Namkeen, No Transfats Or Cholesterol, Evening Teatime Snack",49,0,snacks
+Namkeen - Tasty Nuts Spiced Coated Fried Peanuts,95,0,snacks
+Phalhari Chiwda Namkeen,50,0,snacks
+Masala Peanut,65,0,snacks
+Chana Jor Garam,45,0,snacks
+All In One Mixture,114,0,snacks
+Nacho Chips - Nacho Cheese Flavour,112,0,snacks
+Bhujia Sev,164,0,snacks
+Good Day Chocochip Cookies,93,0,snacks
+"Chekkalu, Telugu Speciality Snacks",69,0,snacks
+Butter Murukku,58,10,snacks
+Moong Dal Namkeen,570,10,snacks
+Ribbon Pakoda,58,10,snacks
+Namkeen - Kodubale,58,6,snacks
+Namkeen - Khatta Meetha,56,10,snacks
+Namkeen - Mini Bhakarwadi,130,34,snacks
+Madras Mixture,58,37,snacks
+Murukku,65,20,snacks
+Butter Murukku,69,6,snacks
+Kerala Rice Murukku,79,6,snacks
+Namkeen - Tasty Nuts,165,39,snacks
+Namkeen - Masala Kaju,100,17,snacks
+Tasty Peanuts - Spice Coated,117,10,snacks
+Namkeen - Salted Peanut,56,31,snacks
+Namkeen - Lite Chiwda,9,6,snacks
+Ragi Sticks - Achari Masala,76,18,snacks
+"Kerala Banana Chips - Original Style, Thin & Crispy, Delicious",157,39,snacks
+Khara Boondi,58,20,snacks
+Shankarpali Sweet - Mithai,75,39,snacks
+Namkeen - Lite Chiwda,56,38,snacks
+Khatta Meetha,120,31,snacks
+Gujarati Besan Papdi,67,6,snacks
+West Indies Hot N Sweet Potato Chips - Crispy Chips & Snacks,80,4,snacks
+Quinoa Puffs - Onion Masala,76,37,snacks
+Tamil Nadu Madras Mixture,65,10,snacks
+Chaat Papdi - Crispy,150,22,snacks
+Mixture Namkeen,42,25,snacks
+Makhana - Cream & Onion,116,11,snacks
+"Chegodi, Telugu Speciality Snacks",69,33,snacks
+Tapioca Chips Chilly,40,37,snacks
+"Cornflakes Mixture - Namkeen, No Transfats Or Cholesterol, Evening Teatime Snack",49,0,snacks
+Namkeen - Tasty Nuts Spiced Coated Fried Peanuts,95,0,snacks
+Phalhari Chiwda Namkeen,50,0,snacks
+Masala Peanut,65,0,snacks
+Chana Jor Garam,45,0,snacks
+All In One Mixture,114,0,snacks
+Nacho Chips - Nacho Cheese Flavour,112,0,snacks
+Bhujia Sev,164,0,snacks
+Good Day Chocochip Cookies,93,0,snacks
+"Chekkalu, Telugu Speciality Snacks",69,0,snacks
+Vacuum Evaporated Iodised Edible Common Salt,27,4,grocery
+Organic - Raw Peanuts/Kadalekayi,108,20,grocery
+"Indian Cashew Whole - Premium & Hand Picked, 100% Natural",537,23,grocery
+"American Pistachios - Roasted & Salted, 100% Natural, Premium, No Additives",678,15,grocery
+"Indian Roasted Flax Seeds - Premium & Hand Picked, 100% Natural",53,73,grocery
+Organic Black Mustard,72,10,grocery
+Hing Powder,75,17,grocery
+Organic - Cumin/Jeera/Jeerige,185,69,grocery
+Organic - Urad Whole Gota Unpolished,306,39,grocery
+Sooji Ordinary/Bombay Rava,325,18,grocery
+Organic Fried Gram/Huri Kadale,140,57,grocery
+Powder - Asafoetida,883,30,grocery
+Organic - Toor Dal/Togari Bele,1016,38,grocery
+"Chilean Walnut Kernels - 100% Natural, Premium & Healthy, No Additives",371,49,grocery
+Organic - Cardamom/Elachi Green,505,29,grocery
+Organic - Cinnamon/Dalchini,255,11,grocery
+Fine Besan/Kadale Hittu - 100% Chana Dal,137,40,grocery
+Sona Masoori Raw Rice (12-17 Months old),360,12,grocery
+Chicken Masala,103,64,grocery
+"Chilli Powder - Perfect Colour, Smell & Taste",123,43,grocery
+Vietnamese Cassia Whole,107,51,grocery
+"Cotton Canvas Vegetable/Grocery Bag - Printed, White, Reusable",369,51,grocery
+Ginger Powder - Rich Aroma & Sharp Flavour,329,14,grocery
+Oregano,209,0,grocery
+"Dried Cranberry - Low In Calorie, No Preservatives",419,0,grocery
+Afghan Kismiss,395,0,grocery
+"Roasted & Salted Peanuts - Tangy Flavour, High Protein & Fibre",219,0,grocery
+Masala - Garam,185,0,grocery
+Masala - Chhole,67,0,grocery
+"Grocery Jar - Durable, Blue",139,0,grocery
+Powder - Turmeric,72,0,grocery
+"Masala - Kitchen King, Jain",94,0,grocery
+Powder - Kashmiri Chilli,195,0,grocery
+"Afghan Black Raisins - Seedless, 100% Natural, Premium & Healthy, No Additives",295,0,grocery
+"Turkish Apricots - Premium & Hand Picked, 100% Natural",300,0,grocery
+Masala - Dal,78,0,grocery
+Vacuum Evaporated Iodised Edible Common Salt,27,4,grocery
+Organic - Raw Peanuts/Kadalekayi,108,20,grocery
+"Indian Cashew Whole - Premium & Hand Picked, 100% Natural",537,23,grocery
+"American Pistachios - Roasted & Salted, 100% Natural, Premium, No Additives",678,15,grocery
+"Indian Roasted Flax Seeds - Premium & Hand Picked, 100% Natural",53,73,grocery
+Organic Black Mustard,72,10,grocery
+Hing Powder,75,17,grocery
+Organic - Cumin/Jeera/Jeerige,185,69,grocery
+Organic - Urad Whole Gota Unpolished,306,39,grocery
+Sooji Ordinary/Bombay Rava,325,18,grocery
+Organic Fried Gram/Huri Kadale,140,57,grocery
+Powder - Asafoetida,883,30,grocery
+Organic - Toor Dal/Togari Bele,1016,38,grocery
+"Chilean Walnut Kernels - 100% Natural, Premium & Healthy, No Additives",371,49,grocery
+Organic - Cardamom/Elachi Green,505,29,grocery
+Organic - Cinnamon/Dalchini,255,11,grocery
+Fine Besan/Kadale Hittu - 100% Chana Dal,137,40,grocery
+Sona Masoori Raw Rice (12-17 Months old),360,12,grocery
+Chicken Masala,103,64,grocery
+"Chilli Powder - Perfect Colour, Smell & Taste",123,43,grocery
+Vietnamese Cassia Whole,107,51,grocery
+"Cotton Canvas Vegetable/Grocery Bag - Printed, White, Reusable",369,51,grocery
+Ginger Powder - Rich Aroma & Sharp Flavour,329,14,grocery
+Oregano,209,0,grocery
+"Dried Cranberry - Low In Calorie, No Preservatives",419,0,grocery
+Afghan Kismiss,395,0,grocery
+"Roasted & Salted Peanuts - Tangy Flavour, High Protein & Fibre",219,0,grocery
+Masala - Garam,185,0,grocery
+Masala - Chhole,67,0,grocery
+"Grocery Jar - Durable, Blue",139,0,grocery
+Powder - Turmeric,72,0,grocery
+"Masala - Kitchen King, Jain",94,0,grocery
+Powder - Kashmiri Chilli,195,0,grocery
+"Afghan Black Raisins - Seedless, 100% Natural, Premium & Healthy, No Additives",295,0,grocery
+"Turkish Apricots - Premium & Hand Picked, 100% Natural",300,0,grocery
+Masala - Dal,78,0,grocery
+"Household Candle 40 D - Sturdy, White Colour",46,10,household
+"Household Candle 40 C - Sturdy, White Colour",46,12,household
+"Gala Sponge Wipe Kitchen Cleaner,1pc + Mr Muscle Glass & Household Cleaner,500ml",163,38,household
+"Household Candle 98 D - Sturdy, White Colour",113,15,household
+Colin Cleaner - Glass & Household 500 ml + Scotch Brite Sponge Wipe Large 1 pc,182,14,household
+"Household Kitchen Set - For Kids, Role Play Toys",499,13,household
+Household Cotton Braided Doormat - Black,169,19,household
+"2 in1 Mop With Jet Spray - Wet/Dry Mopping, Household Use",99,0,household
+"Household Candle 98 E - Sturdy, White Colour",109,0,household
+Household Candles Unscented,269,0,household
+"Household Candle 65 E - Sturdy, White Colour",199,0,household
+Glass & Household Cleaner - Ultra Shine,299,0,household
+"Household Candle 40 D - Sturdy, White Colour",46,10,household
+"Household Candle 40 C - Sturdy, White Colour",46,12,household
+"Gala Sponge Wipe Kitchen Cleaner,1pc + Mr Muscle Glass & Household Cleaner,500ml",163,38,household
+"Household Candle 98 D - Sturdy, White Colour",113,15,household
+Colin Cleaner - Glass & Household 500 ml + Scotch Brite Sponge Wipe Large 1 pc,182,14,household
+"Household Kitchen Set - For Kids, Role Play Toys",499,13,household
+Household Cotton Braided Doormat - Black,169,19,household
+"2 in1 Mop With Jet Spray - Wet/Dry Mopping, Household Use",99,10,household
+"Household Candle 98 E - Sturdy, White Colour",109,12,household
+Household Candles Unscented,269,38,household
+"Household Candle 65 E - Sturdy, White Colour",199,15,household
+Glass & Household Cleaner - Ultra Shine,299,14,household
+"Household Candle 98 F - Sturdy, White Colour",163,13,household
+"Household Candle 65 D - Sturdy, White Colour",113,19,household
+"All Purpose Scissor - Multifunctional Kitchen/Household/Garden, 8.3""/21 Cm",182,19,household
+"All Purpose Scissor For General Household - 5.5""/14 Cm, Yellow, Use In Kitchen & Stationery",499,0,household
+"All Purpose Scissor For General Household - 6.5""/16.5 Cm, Pink, Use In Kitchen & Stationery",169,0,household
+"Anti Bacterial Household Surface - 40%Extra free, Imported",99,0,household
+"All Purpose Scissor For Household With Thick Blade - 8.5""/21.5 Cm, Yellow, Use In Kitchen & Stationery",109,0,household
+"All Purpose Multifunctional Kitchen/Household/Garden Scissor - 8""/20 Cm, Use In Kitchen & Stationery",269,0,household
+"Gala Sponge Wipe Kitchen Cleaner,1pc + Mr Muscle Glass & Household Cleaner,500ml",199,0,household
+"Household Candle 98 D - Sturdy, White Colour",299,0,household
+Colin Cleaner - Glass & Household 500 ml + Scotch Brite Sponge Wipe Large 1 pc,46,0,household
+"Household Kitchen Set - For Kids, Role Play Toys",31,0,household
+"Cleaning Liquid - Window Shine, Glass & Household",329,0,household
+"2 in1 Mop With Jet Spray - Wet/Dry Mopping, Household Use",169,0,household
+"Household Candle 98 E - Sturdy, White Colour",85,0,household
+Household Candles Unscented,159,0,household
+"Household Candle 65 E - Sturdy, White Colour",499,0,household
+Stand & Pee Biodegradable Urination Funnel For Women - Prevents Infection,299,16,personal care
+"Lady Bladder Control Pads - Plus, Leakproof, Eliminates Odour",532,12,personal care
+Super Soft Premium Disposable Maternity Breast Pads (36 Pads),449,15,personal care
+Complete Care Pregnancy Gift Box,1689,5,personal care
+Intimate Wash,550,25,personal care
+Lady Slim Bladder Control Pads - Extra,247,17,personal care
+Specialist Skin Care Oil,2210,80,personal care
+Double Side Cotton Pads,149,80,personal care
+For Moms - Nipple Care Butter,76,49,personal care
+Natural Nipple Butter For Breastfeeding Moms,299,42,personal care
+"Cotton Buds - Made With Natural Fibres, Soft",99,42,personal care
+LMN BB 433 Fragrance Oil - Lemon,45,49,personal care
+Washable Cotton Maternity Breast Pads - White,370,42,personal care
+Love is in the Air Aroma Oil,720,40,personal care
+Aroma Oil Festive Box,1500,0,personal care
+Walk in the Wood Aroma Oil,720,0,personal care
+"Stretch Mark Toning Butter - Coconut & Haldi, Ayurvedic, Enhances Skin Elasticity",749,0,personal care
+"Stretch Mark Cream - Pure, Gentle & Safe, Moisturises Skin, Reduces Itching",518,0,personal care
+"Mini Mother Care Kit - Stretch Mark Cream, 30 g & Methi Hair Oil 30 ml, Paraben & Toxin Free",198,0,personal care
+Stretch Marks Skin Bio Therapy Oil - For All Skin Types,350,0,personal care
+"Waist Girdle, Small",765,0,personal care
+"Soothing Nipple Butter Cream - No Chemicals, Vegan, For Breast Feeding Moms",449,0,personal care
+MSK BB 434 Fragrance Oil - Musk,35,0,personal care
+Fragrance-Scented Oil - Sandalwood SNDLWD BB 434,35,0,personal care
+"Mother Baby Care Combo - Stretch Marks Cream, Methi Seed Hair Oil & Baby Massage Oil",297,0,personal care
+"Stretch Mark Cream, 30 g & Baby Massage Oil, 30 ml - Pure, Gentle & Safe, No Parabens",198,0,personal care
+"Stretch Mark Serum - Evens Out Skin Tones, For Pregnancy Stretch Marks & Scars",549,0,personal care
+Retone Nipple Depigmenting Serum - Cherry Blossom & Coconut Oil,599,0,personal care
+"Natural Anti-Cellulite Toning Body Oil - Coffee, Turmeric & Ginger Oil, Tightens, Firms, Tones Skin",278,0,personal care
+"Mini Mother Baby Care Combo - Baby Massage Oil & Methi Hair Oil, Paraben & Toxin Free",198,0,personal care
+"Release Breast Destressing Oil - With Lavender & Rosehip Oil, Relaxes",249,0,personal care
+Aroma Oil - Soulgreen,800,0,personal care
+ROSE BB 434 Fragrance Oil - Rose,35,0,personal care
+"Liquid Disinfectant for Floor Cleaner, Surface Disinfection, Personal Hygiene - Lavender Blossom",1087,0,personal care
+Stand & Pee Biodegradable Urination Funnel For Women - Prevents Infection,299,16,personal care
+"Lady Bladder Control Pads - Plus, Leakproof, Eliminates Odour",532,12,personal care
+Super Soft Premium Disposable Maternity Breast Pads (36 Pads),449,15,personal care
+Complete Care Pregnancy Gift Box,1689,5,personal care
+Intimate Wash,550,25,personal care
+Lady Slim Bladder Control Pads - Extra,247,17,personal care
+Specialist Skin Care Oil,2210,80,personal care
+Double Side Cotton Pads,149,80,personal care
+For Moms - Nipple Care Butter,76,49,personal care
+Natural Nipple Butter For Breastfeeding Moms,299,42,personal care
+"Cotton Buds - Made With Natural Fibres, Soft",99,42,personal care
+LMN BB 433 Fragrance Oil - Lemon,45,49,personal care
+Washable Cotton Maternity Breast Pads - White,370,42,personal care
+Love is in the Air Aroma Oil,720,40,personal care
+Aroma Oil Festive Box,1500,252,personal care
+Walk in the Wood Aroma Oil,720,12,personal care
+"Stretch Mark Toning Butter - Coconut & Haldi, Ayurvedic, Enhances Skin Elasticity",749,0,personal care
+"Stretch Mark Cream - Pure, Gentle & Safe, Moisturises Skin, Reduces Itching",518,0,personal care
+"Mini Mother Care Kit - Stretch Mark Cream, 30 g & Methi Hair Oil 30 ml, Paraben & Toxin Free",198,0,personal care
+Stretch Marks Skin Bio Therapy Oil - For All Skin Types,350,0,personal care
+"Waist Girdle, Small",765,0,personal care
+"Soothing Nipple Butter Cream - No Chemicals, Vegan, For Breast Feeding Moms",449,0,personal care
+MSK BB 434 Fragrance Oil - Musk,35,0,personal care
+Fragrance-Scented Oil - Sandalwood SNDLWD BB 434,35,0,personal care
+"Mother Baby Care Combo - Stretch Marks Cream, Methi Seed Hair Oil & Baby Massage Oil",297,0,personal care
+"Stretch Mark Cream, 30 g & Baby Massage Oil, 30 ml - Pure, Gentle & Safe, No Parabens",198,0,personal care
+"Stretch Mark Serum - Evens Out Skin Tones, For Pregnancy Stretch Marks & Scars",549,0,personal care
+Retone Nipple Depigmenting Serum - Cherry Blossom & Coconut Oil,599,0,personal care
+"Natural Anti-Cellulite Toning Body Oil - Coffee, Turmeric & Ginger Oil, Tightens, Firms, Tones Skin",278,0,personal care
+"Mini Mother Baby Care Combo - Baby Massage Oil & Methi Hair Oil, Paraben & Toxin Free",198,0,personal care
+"Release Breast Destressing Oil - With Lavender & Rosehip Oil, Relaxes",249,0,personal care
+Aroma Oil - Soulgreen,800,0,personal care
+ROSE BB 434 Fragrance Oil - Rose,35,0,personal care
+"Liquid Disinfectant for Floor Cleaner, Surface Disinfection, Personal Hygiene - Lavender Blossom",1087,0,personal care
+Frozen Mutton - Keema,480,20,meat
+Chicken Meatballs,365,25,meat
+Mutton - Mince,488,23,meat
+Mutton - Boneless,524,6,meat
+Premium Mutton Mince,540,34,meat
+Mutton - Sheekh Kabab,375,40,meat
+Mutton Mince,549,40,meat
+"Mutton Seekh Kabab - 100% Halal Product, No Added Colours, Ready To Cook",540,12,meat
+"Mutton Tandoori Seekh Kabab - 100% Halal Product, No Added Colours, Ready To Cook",540,28,meat
+Mutton Seekh Kabab,460,0,meat
+"Mutton Hariyali Seekh Kabab - 100% Halal Product, No Added Colours, Ready To Cook",540,0,meat
+Frozen Mutton - Boneless,640,0,meat
+Lamb Rack Cap Off - New Zealand,5199,0,meat
+Lamb Leg Bone In - New Zealand,5099,0,meat
+"Mutton Seekh Kabab/Kebab, Punjabi",600,0,meat
+Mutton - Seekh Kebab,610,0,meat
+Mutton Kakori Kebab,250,0,meat
+Mutton Seekh Kebab,575,0,meat
+Mutton Curry Cuts,499,0,meat
+Premium Mutton Bhuna Samosa,195,0,meat
+Premium Mutton Mexican Samosa,195,0,meat
+Frozen Mutton - Curry Cut,480,0,meat
+Premium Mutton Cubes,690,0,meat
+Premium Mutton Chops,510,0,meat
+Premium Mutton Curry Cut,460,0,meat
+Mutton Biryani Cut,549,0,meat
+Mutton Pure Fat,149,0,meat
+Frozen Mutton - Biryani Cut,480,0,meat
+"Meat Masala - Perfect Colour, No Artificial Flavours & Preservatives",55,0,meat
+Masala - Meat,191,0,meat
+Meat Masala,91,0,meat
+"Peri Peri Chicken Cubes, Marinated",109,0,meat
+"Peri Peri Basa Fish Steak, Marinated",99,0,meat
+"Tandoori Chicken Wings, Marinated",99,0,meat
+"Korma Gravy Mix, 200 g + Chicken - Curry Cut Without Skin, 12-16 Pcs, 450g",229,0,meat
+Meat Masala,108,0,meat
+Frozen Mutton - Keema,480,20,meat
+Chicken Meatballs,365,25,meat
+Mutton - Mince,488,23,meat
+Mutton - Boneless,524,6,meat
+Premium Mutton Mince,540,34,meat
+Mutton - Sheekh Kabab,375,40,meat
+Mutton Mince,549,40,meat
+"Mutton Seekh Kabab - 100% Halal Product, No Added Colours, Ready To Cook",540,12,meat
+"Mutton Tandoori Seekh Kabab - 100% Halal Product, No Added Colours, Ready To Cook",540,28,meat
+Mutton Seekh Kabab,460,0,meat
+"Mutton Hariyali Seekh Kabab - 100% Halal Product, No Added Colours, Ready To Cook",540,0,meat
+Frozen Mutton - Boneless,640,0,meat
+Lamb Rack Cap Off - New Zealand,5199,0,meat
+Lamb Leg Bone In - New Zealand,5099,0,meat
+"Mutton Seekh Kabab/Kebab, Punjabi",600,0,meat
+Mutton - Seekh Kebab,610,0,meat
+Mutton Kakori Kebab,250,0,meat
+Mutton Seekh Kebab,575,0,meat
+Mutton Curry Cuts,499,0,meat
+Premium Mutton Bhuna Samosa,195,0,meat
+Premium Mutton Mexican Samosa,195,0,meat
+Frozen Mutton - Curry Cut,480,0,meat
+Premium Mutton Cubes,690,0,meat
+Premium Mutton Chops,510,0,meat
+Premium Mutton Curry Cut,460,0,meat
+Mutton Biryani Cut,549,0,meat
+Mutton Pure Fat,149,0,meat
+Frozen Mutton - Biryani Cut,480,0,meat
+"Meat Masala - Perfect Colour, No Artificial Flavours & Preservatives",55,0,meat
+Masala - Meat,191,0,meat
+Meat Masala,91,0,meat
+"Peri Peri Chicken Cubes, Marinated",109,0,meat
+"Peri Peri Basa Fish Steak, Marinated",99,0,meat
+"Tandoori Chicken Wings, Marinated",99,0,meat
+"Korma Gravy Mix, 200 g + Chicken - Curry Cut Without Skin, 12-16 Pcs, 450g",229,0,meat
+Meat Masala,108,0,meat
+Organic Fish Masala,97,25,fish
+Rohu Fish Curry Cut/Bengali Cut Without Head,369,23,fish
+"Peri Peri Basa Fish Steak, Marinated",99,40,fish
+Catla Fish Curry Cut/Bengali Cut Without Head,529,23,fish
+Classic Hariyali Rohu Fish Steak,139,20,fish
+"Amritsari Achari Fish Tikka, Marinated",119,44,fish
+Basa Fish Fillet,509,27,fish
+Ready To Eat Kerala Fish Curry - With Coconut Milk,144,20,fish
+Fish Masala,44,23,fish
+Basa Fish Curry Cut,168,45,fish
+Burger Patty - Tilapia Fish,245,23,fish
+Tilapia Fish Curry Cut,109,20,fish
+"Sardine Fish-Large, Whole Cleaned",409,46,fish
+Mackerel Fish (Large) - Curry Cut/Bengali Cut,579,40,fish
+Fresh Catch Basa Fish Portions,320,23,fish
+"Dry Fish, Salted, Shark Cubes",110,20,fish
+Mustard Fish Instant Liquid Masala - Fish Cooking Paste,352,23,fish
+"Lush Hariyali Fish Tikka, Marinated",119,23,fish
+"Tandoori Catla Fish Steak, Marinated",129,23,fish
+"Dry Fish Nathli/Anchovies-Small, Salted",85,7,fish
+"Mackerel Fish-Medium, Whole Cleaned",269,23,fish
+Ready To Eat Kerala Fish Curry,144,10,fish
+"Dry Fish Nathli/Anchovies-Big, Salted, With Head",95,41,fish
+Pink Perch Fish - Cleaned & Whole,829,23,fish
+Roopchanda Fish Curry Cut,189,23,fish
+Catla Fish Steak/Slice,509,50,fish
+Bombay Duck,103,0,fish
+Frozen Tilapia Fish Fillet,190,0,fish
+"Dry Fish, Salted, Cleaned & Cut",80,0,fish
+"Dry Fish Prawns-Small, Salted, Cleaned & Cut",120,0,fish
+Fish Fingers,700,0,fish
+Fish - Nuggets,235,0,fish
+"Fish Masala - With Unique Blend Of Spices, Flavourful",80,0,fish
+Tuna Fish Boneless,289,0,fish
+Masala - Fish Fry,27,0,fish
+Rohu Fish (Large) - Curry Cut/Bengali Cut 950 g + Tilapia Fish Whole 450g,452,0,fish
+Catla Fish Head,89,0,fish
+"Dry Fish Nathli/Anchovies-Big, Spicy",175,0,fish
+"Desi Catla Steak - Fresh & Juicy, Marinated, Ready To Cook",413,0,fish
+Basa Fish Curry Cut,249,0,fish
+Organic Fish Masala,97,25,fish
+Rohu Fish Curry Cut/Bengali Cut Without Head,369,23,fish
+"Peri Peri Basa Fish Steak, Marinated",99,40,fish
+Catla Fish Curry Cut/Bengali Cut Without Head,529,23,fish
+Classic Hariyali Rohu Fish Steak,139,20,fish
+"Amritsari Achari Fish Tikka, Marinated",119,44,fish
+Basa Fish Fillet,509,27,fish
+Ready To Eat Kerala Fish Curry - With Coconut Milk,144,20,fish
+Fish Masala,44,23,fish
+Basa Fish Curry Cut,168,45,fish
+Burger Patty - Tilapia Fish,245,23,fish
+Tilapia Fish Curry Cut,109,20,fish
+"Sardine Fish-Large, Whole Cleaned",409,46,fish
+Mackerel Fish (Large) - Curry Cut/Bengali Cut,579,40,fish
+Fresh Catch Basa Fish Portions,320,23,fish
+"Dry Fish, Salted, Shark Cubes",110,20,fish
+Mustard Fish Instant Liquid Masala - Fish Cooking Paste,352,23,fish
+"Lush Hariyali Fish Tikka, Marinated",119,23,fish
+"Tandoori Catla Fish Steak, Marinated",129,23,fish
+"Dry Fish Nathli/Anchovies-Small, Salted",85,7,fish
+"Mackerel Fish-Medium, Whole Cleaned",269,23,fish
+Ready To Eat Kerala Fish Curry,144,10,fish
+"Dry Fish Nathli/Anchovies-Big, Salted, With Head",95,41,fish
+Pink Perch Fish - Cleaned & Whole,829,23,fish
+Roopchanda Fish Curry Cut,189,23,fish
+Catla Fish Steak/Slice,509,50,fish
+Bombay Duck,103,0,fish
+Frozen Tilapia Fish Fillet,190,0,fish
+"Dry Fish, Salted, Cleaned & Cut",80,0,fish
+"Dry Fish Prawns-Small, Salted, Cleaned & Cut",120,0,fish
+Fish Fingers,700,0,fish
+Fish - Nuggets,235,0,fish
+"Fish Masala - With Unique Blend Of Spices, Flavourful",80,0,fish
+Tuna Fish Boneless,289,0,fish
+Masala - Fish Fry,27,0,fish
+Rohu Fish (Large) - Curry Cut/Bengali Cut 950 g + Tilapia Fish Whole 450g,452,0,fish
+Catla Fish Head,89,0,fish
+"Dry Fish Nathli/Anchovies-Big, Spicy",175,0,fish
+"Desi Catla Steak - Fresh & Juicy, Marinated, Ready To Cook",413,0,fish
+Basa Fish Curry Cut,249,0,fish
+Traditional Jeera Bakery Biscuits,155,10,bakery
+Swiss Roll - Single,30,43,bakery
+Biscuits - Chai,180,10,bakery
+Bakery Biscuit - Ajwain,155,12,bakery
+"Toastea Premium Bake Rusk With Goodness Of Elaichi, Sooji & Wheat",109,43,bakery
+Cashew Biscuits,180,12,bakery
+Bhakri Baked Mathri - Methi,69,18,bakery
+Bakery Biscuit - Choco Chips,155,50,bakery
+"Corn Chips+ - Salt &Truffle, Popped, Not Fried Or Baked",100,0,bakery
+Cheese Bakes,60,0,bakery
+"Puffs - Tango, Baked & Crunchy",54,0,bakery
+"Quinoa Healthy Baked Chips - Thai Chilli, Low GI, Diabetic Friendly",341,0,bakery
+Bhakri Baked Mathri - Jeera,69,0,bakery
+"Quinoa Healthy Baked Chips - Cheese, Low GI, Diabetic Friendly",341,0,bakery
+"Roasted Makhana - Jalapeno, Baked Foxnuts, Healthy Snack,For Weight Management",181,0,bakery
+"Creme Bakes - Choco Brownie Cake, Yummy Snack, Rich Flavour & Taste",199,0,bakery
+Baking Powder - Double Acting,40,0,bakery
+"Masala Lavash - Made With Whole Wheat, 100% Vegetarian, Crispy Cracker",75,0,bakery
+"Masala Cheese Crackers - 100% Vegetarian, Rich In Nutrients, Soft & Crunchy",95,0,bakery
+"Baked Makhana - Rich In Protein & Energy, Gluten Free, Peri Peri",180,0,bakery
+"Whipped Cream Mix - Rich & Smooth Topping, Egg Free, For Cakes, Muffins, Desserts",382,0,bakery
+"Corn-Puffs - Cheese Flavour, Baked, Golden Pack",50,0,bakery
+Frozit Almond Pista Cookies - Baked,240,0,bakery
+"Plum Cake Mix - Rich, Instant Dessert, For Baking",130,0,bakery
+"Black Forest Cake Mix - Eggless, Instant Dessert, For Baking",155,0,bakery
+"White Chocolate & Raspberry Biscuits - With Natural Ingredients, Baked, Delicious Cookies",449,0,bakery
+Golden Bites Cashew Cookies,10,0,bakery
+"Jowar Puff - Chatpata Treat, Baked",39,0,bakery
+"Unjunked Bhujia - Baked Not Fried, Zero Trans Fat, No Palm Oil",199,0,bakery
+"Black Forest Cake Mix - Rich, Instant Dessert, For Baking",135,0,bakery
+Baking Soda - All Purpose,199,0,bakery
+Cashew Butter Bite Fresh Baked Cookies,150,0,bakery
+"Choco Chips - Premium Quality, For Baking",120,0,bakery
+"Whole Wheat Multigrain Toast - Wholesome, Crispy & Crunchy",70,0,bakery
+Osmania Biscuits,160,0,bakery
+"Golden Bites Rich Butter Cookies - Baked, Crispy",70,0,bakery
+Traditional Jeera Bakery Biscuits,155,10,bakery
+Swiss Roll - Single,30,43,bakery
+Biscuits - Chai,180,10,bakery
+Bakery Biscuit - Ajwain,155,12,bakery
+"Toastea Premium Bake Rusk With Goodness Of Elaichi, Sooji & Wheat",109,43,bakery
+Cashew Biscuits,180,12,bakery
+Bhakri Baked Mathri - Methi,69,18,bakery
+Bakery Biscuit - Choco Chips,155,50,bakery
+"Corn Chips+ - Salt &Truffle, Popped, Not Fried Or Baked",100,15,bakery
+Cheese Bakes,60,180,bakery
+"Puffs - Tango, Baked & Crunchy",54,20,bakery
+"Quinoa Healthy Baked Chips - Thai Chilli, Low GI, Diabetic Friendly",341,15,bakery
+Bhakri Baked Mathri - Jeera,69,14,bakery
+"Quinoa Healthy Baked Chips - Cheese, Low GI, Diabetic Friendly",341,16,bakery
+"Roasted Makhana - Jalapeno, Baked Foxnuts, Healthy Snack,For Weight Management",181,33,bakery
+"Creme Bakes - Choco Brownie Cake, Yummy Snack, Rich Flavour & Taste",199,0,bakery
+Baking Powder - Double Acting,40,0,bakery
+"Masala Lavash - Made With Whole Wheat, 100% Vegetarian, Crispy Cracker",75,0,bakery
+"Masala Cheese Crackers - 100% Vegetarian, Rich In Nutrients, Soft & Crunchy",95,0,bakery
+"Baked Makhana - Rich In Protein & Energy, Gluten Free, Peri Peri",180,0,bakery
+"Whipped Cream Mix - Rich & Smooth Topping, Egg Free, For Cakes, Muffins, Desserts",382,0,bakery
+"Corn-Puffs - Cheese Flavour, Baked, Golden Pack",50,0,bakery
+Frozit Almond Pista Cookies - Baked,240,0,bakery
+"Plum Cake Mix - Rich, Instant Dessert, For Baking",130,0,bakery
+"Black Forest Cake Mix - Eggless, Instant Dessert, For Baking",155,0,bakery
+"White Chocolate & Raspberry Biscuits - With Natural Ingredients, Baked, Delicious Cookies",449,0,bakery
+Golden Bites Cashew Cookies,10,0,bakery
+"Jowar Puff - Chatpata Treat, Baked",39,0,bakery
+"Unjunked Bhujia - Baked Not Fried, Zero Trans Fat, No Palm Oil",199,0,bakery
+"Black Forest Cake Mix - Rich, Instant Dessert, For Baking",135,0,bakery
+Baking Soda - All Purpose,199,0,bakery
+Cashew Butter Bite Fresh Baked Cookies,150,0,bakery
+"Choco Chips - Premium Quality, For Baking",120,0,bakery
+"Whole Wheat Multigrain Toast - Wholesome, Crispy & Crunchy",70,0,bakery
+Osmania Biscuits,160,0,bakery
+"Golden Bites Rich Butter Cookies - Baked, Crispy",70,0,bakery
+"Biscutey Chocolate Creme Cookies - Teatime Snack, Baked",400,0,bakery
+"Herb Toast - Baked, Soft, Crispy & Crunchy",599,0,bakery
+"Aromas Colour & Flavour Emulsion - Blueberry, For Preparing Bakery Items",549,0,bakery
+"Whipped Topping Cream Mix - For Cake Decorations & Baking, No Added Colours",199,0,bakery
+"Carbon Steel Pizza Plate - Stone Ware Finish, Non-Stick, For Baking Pizza",50,0,bakery
+"HD Pro Ultra Glow Multicolor Baked Highlighter Palette - Lightweight, Smooth",240,0,bakery
+"15 In 1 Baked Highlighter & Eyeshadow Palette - Highly Pigmented, Long-Lasting",260,0,bakery
+"Oven Baked Granola - Dark Chocolate Crunch, 100% Natural & Gluten Free",20,0,bakery
+"Corn-Puffs - Cheese Flavour, Baked, Golden Pack",350,0,bakery
+Frozit Almond Pista Cookies - Baked,200,0,bakery
+"Silicone Spatula With Grip Handle - Big, Premium Virgin Material,For Baking, Cooking Use, Red",225,0,bakery
+"Non-Stop Thin Potato Crackers - Baked, Crunchy Masala",130,0,bakery
+"Dried Cherry - Premium Quality, Antioxidants, Fibre Rich, For Baking, Snacking",676,0,bakery
+"Dried Mix Berries - Antioxidant Rich Healthy Breakfast Snack, For Baking",149,0,bakery
+Baked Beans In Tomato Sauce,300,0,bakery
+"Plum Cake Mix - Rich, Instant Dessert, For Baking",155,0,bakery
+"Aluminium Foil - For Baking, Roasting & Wrapping, 72 m",1619,0,bakery
+"Bajra Chips - Himalayan Salt n Pepper, Baked",249,0,bakery
+"Pitted Prunes - Fibre,Vitamins Rich, For Baking, Snacks",418,0,bakery
+"Black Forest Cake Mix - Eggless, Instant Dessert, For Baking",403,0,bakery
+Half Baked Brownies & Cookie Dough Ice Cream,449,0,bakery
+"Milk Chocolate Bar - Smooth & Rich, For Snacking, Desserts, Baking Use",179,0,bakery
+"Cow Ghee - Aromatic, Flavourful, Granular Cooking Medium, For Tempering, Frying, Baking, Grilling",10,0,bakery
+"Natural Baking Soda Deep Cleansing Face Wash - Deep Pore Cleanser, Helps Clear Acne, Pimples & Blackheads",215,0,bakery
+"White Chocolate & Raspberry Biscuits - With Natural Ingredients, Baked, Delicious Cookies",549,0,bakery
+Deliwrap Baking & Cooking Parchment Paper - 10 m,39,0,bakery
+Golden Bites Cashew Cookies,445,0,bakery
+Baked Gud Papdi With Sesame - Ghee Jaggery Chips,199,0,bakery
+"Borosilicate Glass Baking Dish - Square, Microwave Oven Safe",650,0,bakery
+"Jowar Puff - Chatpata Treat, Baked",729,0,bakery
+Eco bake uniwrap Baking and cooking Paper,399,0,bakery
+"Unjunked Bhujia - Baked Not Fried, Zero Trans Fat, No Palm Oil",516,0,bakery
+Baking Powder - Aluminium Free,675,0,bakery
+"Rectangular Glass Baking Microwave Safe & Oven Safe Dish - Borosilicate Glass, Transparent",525,0,bakery
+"N&D Pumpkin Dog Dry Food For Adult - Lamb & Blueberry, Grain Free, Medium & Maxi Breed",10690,25,branded foods
+Dried Blueberries,425,20,branded foods
+"Jaggery Millet Cookies - Jowar & Almonds, No Preservatives & Additives",230,15,branded foods
+Dried Cranberries,149,20,branded foods
+"Gulkand With Dry Fruits - Delicious, Nutritious, Natural Cooling Property",337,0,branded foods
+"Jaggery Millet Cookies - Multigrain, No Maida, No Preservatives & Additives",199,12,branded foods
+Kashmiri Rogan Josh Instant Liquid Masala - Ready To Cook Indian Curry Cooking Paste,176,0,branded foods
+"Dry Fruits & Seeds Powder - Nutrient Booster, Gluten Free, For Kids",320,0,branded foods
+"Jaggery Millet Cookies - Dry Fruits & Seeds, No Preservatives & Additives",230,24,branded foods
+Sweet Red Chilli Jam/Chutney - No Garlic/Onion,210,11,branded foods
+"Jaggery Millet Cookies - Foxtail & Almonds, No Preservatives & Additives",230,0,branded foods
+"Keto Jeera Cookies - No Added Sugar, High Protein, Low Carb Healthy Snack",199,0,branded foods
+Plant Based Chicken Nuggets - Zero Cholesterol,135,0,branded foods
+Andhra Khara Chutney Powder,60,0,branded foods
+Liquid Detergent Advance Care - Blooming Garden,750,0,branded foods
+Laal Maas Instant Liquid Masala - Mutton Cooking Paste,352,0,branded foods
+"Dry Dates Powder - Iron Rich Natural Sweetener, Organic, Preservatives Free",310,0,branded foods
+Athana Mirchi Green - Marwari Stuffed Chilli Pickle,187,0,branded foods
+Dry Mango - Salt & Spices,50,0,branded foods
+Chips - Keralas Jaggery Banana (Sarkara Varatti),120,0,branded foods
+Diet Soya Sticks - Crunchy & Light,175,0,branded foods
+Durum Wheat Pasta - Fusilli,79,0,branded foods
+Ragi Mixture,165,0,branded foods
+Ompudi - Salt & Spices,55,0,branded foods
+Low Carb High Protein Flour,499,0,branded foods
+"Purifying Shampoo - With Tea Tree & Lavender Water, Sulfate & Paraben Free",789,0,branded foods
+Cashews - Black Pepper Flavour,209,0,branded foods
+Maize Flour,55,0,branded foods
+Ragi Flour,55,0,branded foods
+Roasted Garam Masala,99,0,branded foods
+"Wellness Treats Tinodrak, Gingerin, GingBerry & Co-Zing, Combo Candy Pack",200,0,branded foods
+Turmeric/Haldi Jaggery Powder - Latte/Milk Sweetener,325,0,branded foods
+"N&D Prime Cat Dry Food For Adult - Chicken & Pomegranate, Grain Free",5590,0,branded foods
+"N&D Pumpkin Dog Dry Food For Puppy - Chicken & Pomegranate, Grain Free, Medium & Maxi Breed",9590,0,branded foods
+"N&D Quinoa Dog Dry Food Adult For Weight Management - Grain Free With Lamb, Broccoli & Asparagus, All Breeds",8290,0,branded foods
+"N&D Quinoa Cat Dry Food - Skin & Coat, Grain Free, Quail, Coconut & Turmeric, Adult",2250,0,branded foods
+"N&D Pumpkin Dog Dry Food For Adult - Lamb & Blueberry, Grain Free, Medium & Maxi Breed",10690,25,branded foods
+Dried Blueberries,425,20,branded foods
+"Jaggery Millet Cookies - Jowar & Almonds, No Preservatives & Additives",230,15,branded foods
+Dried Cranberries,149,20,branded foods
+"Gulkand With Dry Fruits - Delicious, Nutritious, Natural Cooling Property",337,0,branded foods
+"Jaggery Millet Cookies - Multigrain, No Maida, No Preservatives & Additives",199,12,branded foods
+Kashmiri Rogan Josh Instant Liquid Masala - Ready To Cook Indian Curry Cooking Paste,176,0,branded foods
+"Dry Fruits & Seeds Powder - Nutrient Booster, Gluten Free, For Kids",320,0,branded foods
+"Jaggery Millet Cookies - Dry Fruits & Seeds, No Preservatives & Additives",230,24,branded foods
+Sweet Red Chilli Jam/Chutney - No Garlic/Onion,210,11,branded foods
+"Jaggery Millet Cookies - Foxtail & Almonds, No Preservatives & Additives",230,0,branded foods
+"Keto Jeera Cookies - No Added Sugar, High Protein, Low Carb Healthy Snack",199,0,branded foods
+Plant Based Chicken Nuggets - Zero Cholesterol,135,0,branded foods
+Andhra Khara Chutney Powder,60,0,branded foods
+Liquid Detergent Advance Care - Blooming Garden,750,0,branded foods
+Laal Maas Instant Liquid Masala - Mutton Cooking Paste,352,28,branded foods
+"Dry Dates Powder - Iron Rich Natural Sweetener, Organic, Preservatives Free",310,10,branded foods
+Athana Mirchi Green - Marwari Stuffed Chilli Pickle,187,47,branded foods
+Dry Mango - Salt & Spices,50,40,branded foods
+Chips - Keralas Jaggery Banana (Sarkara Varatti),120,26,branded foods
+Diet Soya Sticks - Crunchy & Light,175,53,branded foods
+Durum Wheat Pasta - Fusilli,79,40,branded foods
+Ragi Mixture,165,0,branded foods
+Ompudi - Salt & Spices,55,0,branded foods
+Low Carb High Protein Flour,499,0,branded foods
+"Purifying Shampoo - With Tea Tree & Lavender Water, Sulfate & Paraben Free",789,0,branded foods
+Cashews - Black Pepper Flavour,209,0,branded foods
+Maize Flour,55,0,branded foods
+Ragi Flour,55,0,branded foods
+Roasted Garam Masala,99,0,branded foods
+"Wellness Treats Tinodrak, Gingerin, GingBerry & Co-Zing, Combo Candy Pack",200,0,branded foods
+Turmeric/Haldi Jaggery Powder - Latte/Milk Sweetener,325,0,branded foods
+"N&D Prime Cat Dry Food For Adult - Chicken & Pomegranate, Grain Free",5590,0,branded foods
+"N&D Pumpkin Dog Dry Food For Puppy - Chicken & Pomegranate, Grain Free, Medium & Maxi Breed",9590,0,branded foods
+"N&D Quinoa Dog Dry Food Adult For Weight Management - Grain Free With Lamb, Broccoli & Asparagus, All Breeds",8290,0,branded foods
+"N&D Quinoa Cat Dry Food - Skin & Coat, Grain Free, Quail, Coconut & Turmeric, Adult",2250,0,branded foods
+"Millet Pancake Instant Breakfast Mix - Dates & Nuts, No Maida",5890,0,branded foods
+Dark Soya Sauce - Enhances Taste,499,0,branded foods
+"Millet Pancake Instant Breakfast Mix - Chocolate, No Maida",522,0,branded foods
+Ginger Jaggery Powder - Healthy Sweetener For Chai,136,0,branded foods
+"N&D Ancestral Grain Dog Dry Food For Puppy - Chicken & Pomegranate, Mini Breed",399,0,branded foods
+Organic Millet Mix With Sesame Seeds - No Chemical & Sugar,199,0,branded foods
+"Groundnut Oil - Organic, Cold-pressed",500,0,branded foods
+Black Pepper Powder,50,0,branded foods
+Organic Forest Honey,64,0,branded foods
+Dark Chocolate Peanut Butter,155,0,branded foods
+"Advance Care Liquid Detergent - 2X Active Power Of Bio-Enzymes, Stain Buster, Everlasting Bloom",399,0,branded foods
+Premium California Almonds,3190,0,branded foods
+Rice Flour,159,0,branded foods
+Mini Kodubale - Crunchy & Tasty,269,0,branded foods
+"Dry Dates Powder - Natural Sweetener, Rich In Iron, Energy Booster, No Additives",100,0,branded foods
+"N&D Quinoa For Skin & Coat Dog Dry Food Adult - Grain Free, Quail, Coconut & Turmeric, All Breeds",88,0,branded foods
+"Mixed Seeds - Pumpkin, Chia, Sunflower, Flax, Watermelon",54,0,branded foods
+"100% Organic Oats, Beetroot Porridge Mix",40,0,branded foods
+"Premium Seviyan/ Roasted Vermicelli - Long Cut, Carbohydrate Rich",2395,0,branded foods
+Vegetable Upma Ready Mix,75,0,branded foods
+Besan Flour,5590,0,branded foods
+Chakki Fresh Atta,2250,0,branded foods
+"N&D Ocean Cat Dry Food - Herring & Orange, Grain Free, Adult",299,0,branded foods
+Brown Raw Sugar Khandsari,2250,0,branded foods
+"N&D Quinoa Cat Dry Food - Digestion, Grain Free, Lamb, Fennel & Mint, Adult",220,0,branded foods
+N&D Ancestral Grain Dog Dry Food For Starter Puppy - Chicken & Pomegranate,249,0,branded foods
+"Keto Murukku - Low Carb, High Protein & Fibre Healthy Snack",199,0,branded foods
+"N&D Prime Cat Dry Food - Chicken & Pomegranate, Grain Free, Adult",8690,0,branded foods
+Jumbo White Oats - Harvest Crunch,215,0,branded foods
+100% Organic Oats Porridge Mix,175,0,branded foods
+Organic Jaggery Powder,82,0,branded foods
+"N&D Ancestral Grain Dog Dry Food – Chicken & Pomegranate, Selection, Adult- Medium & Maxi Breed",355,0,branded foods
+Baked Gud Papdi With Sesame - Ghee Jaggery Chips,1298,0,branded foods
+"Zahidi Dates - High Fibre, Healthy Snack",349,0,branded foods
+Deeply Nourishing Baby Wash,327,18,baby care
+Sebamed Baby Shampoo |Ph 5.5| Camomile|Natural moisturisers|No tears formula|For delicate scalp,1250,100,baby care
+Gentle Cleansing Baby Shampoo,898,49,baby care
+"Natural Baby Soap - Shea Butter, Calendula & Oatmeal, pH 5.5, Cleans & Soothes Skin",76,17,baby care
+Baby Soap,327,30,baby care
+Blossoms Baby Soap,68,0,baby care
+"Baby Shampoo Gentle Cleansing +Body Wash Deeply Nourishing,0-5 years(200ml each)",368,0,baby care
+Facial Cream,851,30,baby care
+Baby Powder,666,15,baby care
+Berry Blast Toothpaste For Kids,268,20,baby care
+Extra Clean Wipes - Anti-Bacterial & Fragrant,476,22,baby care
+Baby Powder - No added Talc & Asbestos,600,0,baby care
+Natural Baby Wash,225,15,baby care
+"Baby Wet Wipes with Vitamin E & Aloe Vera, 72 Wipes/Pack (Pack of 2) | Alcohol Free | Paraben Free",250,0,baby care
+Deeply Nourishing Baby Wash 400 ml + Moisturizing Daily Lotion For Babies 400 ml,701,0,baby care
+Moisturising Baby Lotion With Fruit Extracts,99,0,baby care
+Baby Oil - Non - Sticky Massage Oil With No Harmful Chemicals,403,0,baby care
+"Baby Moments Massage Oil - For Moisturised Skin & Nourished Scalp, 0+ Months",139,0,baby care
+"Pure Water Baby Wipes - Ultra Thick, Soft, Paraben Free",299,0,baby care
+"Organic Baby Head-to-Toe - As Body Wash & Shampoo, Tear Free, Pediatrician Certified, Hypoallergenic",900,17,baby care
+"Organic Baby Head-to-Toe Foam Wash - Acts As Body Wash & Shampoo, Tear-Free, Derma Tested",900,40,baby care
+All We Know Baby Powder/Talc,379,10,baby care
+"Baby Wet Wipes - With Aloe Vera & Chamomile Extract, Paraben Free",297,5,baby care
+"New Born Combo - Head To Toe Baby Wash & Nourishing Shampoo, 0-5 Years",325,0,baby care
+"New Born Combo - Daily Lotion & Baby Powder, Nourishes, Soothes Skin",305,0,baby care
+Baby Moments - No-tears Bath Foam,449,0,baby care
+SunScreen - SPF 30+,325,0,baby care
+"Baby Wet Wipes - Grape Fruit Extract, For Newborn Babies, pH Balanced, Rash Free Finish",139,0,baby care
+"Plant Powered Natural Baby Soap - Gently Cleanses & Soothes Skin, 0+ Months",299,0,baby care
+Baby Powder - Fresh Feel,288,0,baby care
+Natural Baby Lotion,235,0,baby care
+"Moisturising Baby Face Cream - Natural Ingredients Avocado, Argan Oil, For Soft & Nourished Skin",320,0,baby care
+Baby Ayurvedic Body Lotion - Nourishing,399,0,baby care
+Everyday Orange & Mandarin Face & Body Lotion For Babies - Deep Moisturising & Fast Absorbing,119,0,baby care
+"Baby Wipes - Organic Coconut Oil & Neem, Safe For Baby's Skin",895,0,baby care
+"Creme Cleansing Baby Bar - pH 5.5, With Aloe Vera & Coconut, Paraben Free",190,0,baby care
+"Baby Massage Oil - REG, BT",190,0,baby care
+Tear-Free Natural Baby Wash,699,0,baby care
+Tear-Free Natural Baby Shampoo,699,0,baby care
+"Pure Water Baby Wipes - Soft, Non-Toxic, Biodegradable, For All Skin Types",499,0,baby care
+Lal Tail,57,0,baby care
+Deeply Nourishing Baby Wash,327,18,baby care
+Sebamed Baby Shampoo |Ph 5.5| Camomile|Natural moisturisers|No tears formula|For delicate scalp,1250,100,baby care
+Gentle Cleansing Baby Shampoo,898,49,baby care
+"Natural Baby Soap - Shea Butter, Calendula & Oatmeal, pH 5.5, Cleans & Soothes Skin",76,17,baby care
+Baby Soap,327,30,baby care
+Blossoms Baby Soap,68,0,baby care
+"Baby Shampoo Gentle Cleansing +Body Wash Deeply Nourishing,0-5 years(200ml each)",368,0,baby care
+Facial Cream,851,30,baby care
+Baby Powder,666,15,baby care
+Berry Blast Toothpaste For Kids,268,20,baby care
+Extra Clean Wipes - Anti-Bacterial & Fragrant,476,22,baby care
+Baby Powder - No added Talc & Asbestos,600,0,baby care
+Natural Baby Wash,225,15,baby care
+"Baby Wet Wipes with Vitamin E & Aloe Vera, 72 Wipes/Pack (Pack of 2) | Alcohol Free | Paraben Free",250,0,baby care
+Deeply Nourishing Baby Wash 400 ml + Moisturizing Daily Lotion For Babies 400 ml,701,0,baby care
+Moisturising Baby Lotion With Fruit Extracts,99,0,baby care
+Baby Oil - Non - Sticky Massage Oil With No Harmful Chemicals,403,0,baby care
+"Baby Moments Massage Oil - For Moisturised Skin & Nourished Scalp, 0+ Months",139,0,baby care
+"Pure Water Baby Wipes - Ultra Thick, Soft, Paraben Free",299,0,baby care
+"Organic Baby Head-to-Toe - As Body Wash & Shampoo, Tear Free, Pediatrician Certified, Hypoallergenic",900,17,baby care
+"Organic Baby Head-to-Toe Foam Wash - Acts As Body Wash & Shampoo, Tear-Free, Derma Tested",900,40,baby care
+All We Know Baby Powder/Talc,379,10,baby care
+"Baby Wet Wipes - With Aloe Vera & Chamomile Extract, Paraben Free",297,5,baby care
+"New Born Combo - Head To Toe Baby Wash & Nourishing Shampoo, 0-5 Years",325,15,baby care
+"New Born Combo - Daily Lotion & Baby Powder, Nourishes, Soothes Skin",305,10,baby care
+Baby Moments - No-tears Bath Foam,449,14,baby care
+SunScreen - SPF 30+,325,20,baby care
+"Baby Wet Wipes - Grape Fruit Extract, For Newborn Babies, pH Balanced, Rash Free Finish",139,0,baby care
+"Plant Powered Natural Baby Soap - Gently Cleanses & Soothes Skin, 0+ Months",299,0,baby care
+Baby Powder - Fresh Feel,288,0,baby care
+Natural Baby Lotion,235,0,baby care
+"Moisturising Baby Face Cream - Natural Ingredients Avocado, Argan Oil, For Soft & Nourished Skin",320,0,baby care
+Baby Ayurvedic Body Lotion - Nourishing,399,0,baby care
+Everyday Orange & Mandarin Face & Body Lotion For Babies - Deep Moisturising & Fast Absorbing,119,0,baby care
+"Baby Wipes - Organic Coconut Oil & Neem, Safe For Baby's Skin",895,0,baby care
+"Creme Cleansing Baby Bar - pH 5.5, With Aloe Vera & Coconut, Paraben Free",190,0,baby care
+"Baby Massage Oil - REG, BT",190,0,baby care
+Tear-Free Natural Baby Wash,699,0,baby care
+Tear-Free Natural Baby Shampoo,699,0,baby care
+"Pure Water Baby Wipes - Soft, Non-Toxic, Biodegradable, For All Skin Types",499,0,baby care
+Lal Tail,57,0,baby care
+Diaper Rash Cream,99,0,baby care
+"Baby Shampoo - pH Balanced, Tear-Free Formula, No Paraben, For Soft & Shiny Hair",60,0,baby care
+"Baby Hair & Body Wash - pH Balanced, Tear-Free Formula, Cleanses Skin, No Paraben",403,0,baby care
+"Marvel Spiderman Bathing Bar - For Boy Kids, Paraben/Sulphate Free, Dermatologically Tested",350,0,baby care
+Moisturising Baby Lotion With Fruit Extracts,299,0,baby care
+"Milky White Baby Toothbrush & Tongue Cleaner - Soft Bristles, Rubber Grip, 1 + Year",199,0,baby care
+Baby Oil - Non - Sticky Massage Oil With No Harmful Chemicals,165,0,baby care
+"Organic Teething Sticks - Multigrain, Cumin",139,0,baby care
+"Instant Cereal - Wheat, Apple & Banana, No Added Sugar & Milk",185,0,baby care
+"Baby Brush & Comb Set - 9959, Colour May Vary",2399,0,baby care
+"Breast Pads - Ultra-slim, Lightweight, Greatest Comfort",5599,0,baby care
+Furniture Corner Guard,1498,0,baby care
+"Natura Flo Plastic Feeding Bottle - Wide Neck, Plain, 3+M",499,0,baby care
+"Premium Soft Diaper Pants - Monthly Pack, Medium, Silky Cocoon Design, Wetness Indicator",99,0,baby care
+Portable 2 Phase Breast Pump Set - Multicolour,139,0,baby care
+"Wonder Pants - Small, Combo",299,0,baby care
+Baby Toothbrush + Teether - For 0 To12 Months,429,0,baby care
+"Marvel Kids Toothbrush - Ironman, Extra Soft Bristles, Ergonomically Designed Grip",299,0,baby care
+"Baby Moments Massage Oil - For Moisturised Skin & Nourished Scalp, 0+ Months",425,0,baby care
+Stand & Pee Biodegradable Urination Funnel For Women - Prevents Infection,399,0,baby care
